@@ -3,7 +3,7 @@
   height: 300px; /* スライド画像の高さ */ 
 }
 
-:root { 
+:root {  
   --swiper-navigation-color: #ffffff; /* スライドショーのパーツ色の設定 */
   --swiper-pagination-color: #ffffff; /* スライドショーのパーツ色の設定 */
 }
