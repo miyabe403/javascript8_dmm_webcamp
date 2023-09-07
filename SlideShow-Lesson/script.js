@@ -6,7 +6,7 @@ const swiper = new Swiper('.swiper', {
  
   //ページネーション表示の設定 
   pagination: { 
-    el: '.swiper-pagination', //ページネーションの要素
+    el: '.swiper-pagination', //ページネーションの要素 
   },
  
   //ナビゲーションボタン（矢印）表示の設定
