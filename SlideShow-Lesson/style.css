@@ -1,9 +1,9 @@
 .swiper { 
   width: 600px; /* スライド画像の幅 */
-  height: 300px; /* スライド画像の高さ */
+  height: 300px; /* スライド画像の高さ */ 
 }
 
 :root {
-  --swiper-navigation-color: #ffffff;
-  --swiper-pagination-color: #ffffff;
+  --swiper-navigation-color: #ffffff; /* スライドショーのパーツ色の設定 */
+  --swiper-pagination-color: #ffffff; /* スライドショーのパーツ色の設定 */
 }
