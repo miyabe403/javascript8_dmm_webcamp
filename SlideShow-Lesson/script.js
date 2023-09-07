@@ -2,7 +2,7 @@
 // Swiperの動作とオプションを記述  
 const swiper = new Swiper('.swiper', {
   //オプションの設定
-  loop: true, //最後までスライドしたら最初の画像に戻る
+  loop: true, //最後までスライドしたら最初の画像に戻る 
  
   //ページネーション表示の設定
   pagination: { 
