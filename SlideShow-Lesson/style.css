@@ -1,6 +1,6 @@
 .swiper { 
-  width: 600px;
-  height: 300px;
+  width: 600px; /* スライド画像の幅 */
+  height: 300px; /* スライド画像の高さ */
 }
 
 :root {
