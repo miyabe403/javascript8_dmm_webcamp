@@ -1,4 +1,4 @@
-// Swiperを動作させる
+// Swiperを動作させる 
 // Swiperの動作とオプションを記述
 const swiper = new Swiper('.swiper', {
   //オプションの設定
